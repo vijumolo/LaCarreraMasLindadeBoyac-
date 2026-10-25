@@ -47,7 +47,7 @@ El proyecto es estático y no necesita build:
 
 La configuración está en `netlify.toml`.
 
-El sitio está conectado al repositorio de GitHub: cada push a la rama `main` genera un despliegue automático en Netlify.
+El sitio está conectado al repositorio de GitHub: cada push a la rama `main` genera un despliegue automático en Netlify. También se puede publicar manualmente con `netlify deploy --prod`.
 
 ## Notas
 
