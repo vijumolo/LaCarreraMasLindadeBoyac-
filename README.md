@@ -47,6 +47,8 @@ El proyecto es estático y no necesita build:
 
 La configuración está en `netlify.toml`.
 
+El sitio está conectado al repositorio de GitHub: cada push a la rama `main` genera un despliegue automático en Netlify.
+
 ## Notas
 
 - El diploma se localiza por dorsal/chip: el orden de las páginas de `DIPLOMAS.pdf` coincide con el listado de chips.
