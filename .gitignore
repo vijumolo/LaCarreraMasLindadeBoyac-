@@ -1,4 +1,8 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+.netlify/
 *.log
+
+# Local Netlify folder
+.netlify

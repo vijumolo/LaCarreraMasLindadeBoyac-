@@ -4,7 +4,9 @@ Aplicación web para consultar los resultados oficiales y descargar el diploma d
 
 ## Demo
 
-Sitio publicado en Netlify: _(se actualizará con la URL al terminar el despliegue)_
+Sitio publicado en Netlify: **https://lacarreramaslindadeboyaca.netlify.app**
+
+Repositorio: https://github.com/vijumolo/LaCarreraMasLindadeBoyac-
 
 ## Funcionalidad
 

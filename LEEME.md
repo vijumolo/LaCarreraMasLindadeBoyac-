@@ -9,6 +9,9 @@ Aplicación web para consultar los resultados oficiales y el diploma de cada dep
 
 Funciona **sin internet** y sin instalar nada: los PDF oficiales están incluidos dentro de la carpeta y se leen directamente en el navegador.
 
+También está publicada en:
+**https://lacarreramaslindadeboyaca.netlify.app**
+
 ## Qué puedes hacer
 
 - Ver los **397 resultados** del PDF oficial de clasificación.
